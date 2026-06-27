@@ -1,5 +1,7 @@
 # Monitor de Trafico de Red
 
+**Autor / Desarrollador:** Leonardo Jiménez Martínez
+
 Prototipo de escritorio (Windows) para vigilar el trafico de red de tu
 equipo: que interfaces estan activas, que programas estan usando la
 red, quien esta conectado a tu red local (no solo lo que habla con tu
