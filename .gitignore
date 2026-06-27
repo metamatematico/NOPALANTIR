@@ -1,0 +1,13 @@
+# Logs generados por el monitor: contienen tu historial real de red
+# (IPs, ubicaciones, ISPs, procesos, horarios). Nunca deben subirse.
+network_monitor_log.csv
+egress_log.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
